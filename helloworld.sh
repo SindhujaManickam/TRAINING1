@@ -1,1 +1,1 @@
-echo $HELLOWORLD
+echo JENKINGIT
