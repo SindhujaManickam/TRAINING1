@@ -1,5 +1,5 @@
 ./a.sh
 ./b.sh
 ./1/z.sh
-unzip apache-tomcat-9.0.16.zip -d /home/appuser/GITREPODUMMY
+scp a.sh root@192.168.1.134:/home/administrator/GITREPO
 
